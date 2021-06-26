@@ -10,6 +10,7 @@ Steps to complete this project
 5. Create your first blog in it and take the screenshot
 
 That's it. Here you will be learning about how to launch the containers, how to link containers, how to use databases inside a container, and many more.
+The final sample output is attached in the repository.
 
 The link for the submission will be given later.
 
